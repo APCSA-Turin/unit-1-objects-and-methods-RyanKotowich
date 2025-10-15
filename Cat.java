@@ -1,4 +1,4 @@
-
+package U1T7.U1L8.U1T8Lab2.java;
 // Cat class definition
 public class Cat {
 
